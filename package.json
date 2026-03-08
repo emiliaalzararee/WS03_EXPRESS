@@ -1,0 +1,24 @@
+{
+  "name": "workshop03_express",
+  "version": "1.0.0",
+  "description": "In this workshop, you will learn the fundamentals of **Express.js framework** and **routing** by building a web server using one of the most popular Node.js frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliaalzararee/WS03_EXPRESS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emiliaalzararee/WS03_EXPRESS/issues"
+  },
+  "homepage": "https://github.com/emiliaalzararee/WS03_EXPRESS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
